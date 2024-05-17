@@ -1,9 +1,9 @@
 <div align="center">  
-## 👋 Eunji 👋 
+<h1>👋 Front-End Delveloper Eunji 👋</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinej&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sinej) 
 <a href="https://ej-developer.tistory.com">
-  <img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/>
+  <img src="https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </a> 
 <a href="https://eunji-dev.notion.site/a281f8a7a7a141609880829bf7a37b3d?pvs=74">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
