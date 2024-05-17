@@ -9,19 +9,17 @@
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>  
 
+</div>
 
- 
+<br>
 
-  <br>
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinej"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinej&langs_count=10&layout=compact&theme=dark)](https://github.com/sinej/sinej)﻿
-
- 
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinej"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinej&langs_count=10&layout=compact&theme=dark"/>
 </div>
 
 
 <div align="center">
-
   
 ### 🛠 SKILL 🛠
 
